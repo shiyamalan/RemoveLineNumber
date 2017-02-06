@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LineRules>
+	<LinePatterns>
+		<Pattern id="pattern1" description="Number with a sympol" rule="1.#####"></Pattern>
+		<Pattern id="pattern1" description="Number with a sympols" rule="1 .#####"></Pattern>
+	</LinePatterns>
+
+	<Sympols>
+		<Sympol id="sympol1" name="." description="dot" />
+		<Sympol id="sympol2" name=" " description="space" />
+		<Sympol id="sympol3" name=">" description="greater than sympol" />
+	</Sympols>
+</LineRules>
